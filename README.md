@@ -5,7 +5,7 @@
 Este repositório contém todos os desafios de projeto executados durante o BootCamp Python AI Backend Developer promovido pela DIO em parceria com a Vivo.
 
 ## 🎢Desafios de Projetos
-- Link: Desafio 1
+- Desafio 1: [Sistema Bancário com Python](https://github.com/jessieFerrS/BootCamp-Python-AI-Backend-Vivo-DIO/tree/main/Desafio%20de%20Projeto%20-%20Criando%20um%20Sistema%20Banc%C3%A1rio%20com%20Python)
 - Link: Desafio 2
 
 ## ⚙️Tecnologias Utilizadas Durante o BootCamp
