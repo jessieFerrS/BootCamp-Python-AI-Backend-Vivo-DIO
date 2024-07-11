@@ -16,7 +16,7 @@ Este e-book foi criado com o intuito de apresentar o conceito de redes adversár
 ## 🎯Resultados
 - O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as Inteligências Artificiais Generativas podem se revelar uma ferramenta de grande magnitude no âmbito educacional, na disseminação do conhecimento e na otimização de tarefas.
 
-[E-BOOK]()
+[E-BOOK - Redes Adversárias Generativas: Guia Completo](https://github.com/jessieFerrS/BootCamp-Python-AI-Backend-Vivo-DIO/blob/main/Desafio%20de%20Projeto%20-%20Natural%20ou%20Fake%20Natty%20Como%20Vencer%20na%20Era%20das%20IAs%20Generativas/IAs%20Generativas%20-%20Redes%20Advers%C3%A1rias%20Generativas%20-%20Guia%20Completo.pdf)
 
 ## 🤔Reflexão
 - A criação deste e-book foi uma experiência interessante, pois além de mostrar o potencial das IAs nos mais diversos cenários e das mais variadas formas, também me despertou para o qual enriquecedor pode ser criar um conteúdo como esse pois, além de me ajudar a obter mais conhecimento ajuda outras pessoas a aprender mais sobre coisas que são tão presente em nosso cotidiano.
